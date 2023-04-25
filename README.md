@@ -16,3 +16,8 @@ kot kodo:
 def f(x):
     return 21
 ```
+
+
+# Avtorji
+
+:)
