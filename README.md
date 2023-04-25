@@ -16,3 +16,11 @@ kot kodo:
 def f(x):
     return 21
 ```
+
+# Avtorji
+
+1. Janez Novak
+2. Miško Kranjec
+3. Klemen Klemen Klemen
+
+
