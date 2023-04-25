@@ -14,14 +14,14 @@ kot kodo:
 
 ```
 def f(x):
-    return 21
+    return 21 + x
 ```
 
 # Avtorji
 
 1. Janez Novak
 2. Miško Kranjec
-3. Klemen Klemen Klemen
+3. Klemen Klemen
 4. Simona G.
 
 
