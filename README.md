@@ -22,5 +22,6 @@ def f(x):
 1. Janez Novak
 2. Miško Kranjec
 3. Klemen Klemen Klemen
+4. Simona G.
 
 
